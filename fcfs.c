@@ -14,7 +14,7 @@ int exe(int pid)
 		
 	}
 float avg_cal(int j)
-	{
+	{printf("FCFS");
 		int i=0;
 		float s=0;
 		while(i<n)
