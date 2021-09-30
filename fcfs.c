@@ -53,7 +53,7 @@ void fcfs()
 			}
 	}
 int main()
-	{
+	{printf("FCFS");
 		printf("Enter the no. of Processes: ");
 		scanf("%d",&n);
 		
