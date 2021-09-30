@@ -53,7 +53,7 @@ float avg_cal(int j)
 			return s/n;
 	}
 int main()
-	{
+	{printf("RR");
 		printf("Enter the no. of Processes: ");
 		scanf("%d",&n);
 		
